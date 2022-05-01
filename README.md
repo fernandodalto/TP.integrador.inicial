@@ -1,5 +1,6 @@
 # TP.integrador.inicial
 ![imagenstock](/images/imagenstock.jpg)
+![imagen1](/images/imagenstock.jpg)
 
 
 **Análisis comparativo del precio de 2 acciones a lo largo de un año**

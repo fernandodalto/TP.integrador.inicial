@@ -17,4 +17,4 @@
 
 **-Gráfico de precios tradicionales.**
 
-
+![imagenstock](/images/myimagen.jpg)

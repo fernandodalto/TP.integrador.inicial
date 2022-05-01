@@ -1,5 +1,5 @@
 # TP.integrador.inicial
-![imagenstock](/images/imagenstock.jpg)
+
 ![imagen1](/images/imagen1.jpg)
 
 

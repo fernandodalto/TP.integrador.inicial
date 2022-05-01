@@ -1,4 +1,6 @@
 # TP.integrador.inicial
+![imagenstock](/images/imagenstock.jpg)
+
 
 **Análisis comparativo del precio de 2 acciones a lo largo de un año**
 
@@ -17,4 +19,4 @@
 
 **-Gráfico de precios tradicionales.**
 
-![imagenstock](/images/myimagen.jpg)
+![imagenstock](/images/imagenstock.jpg)
